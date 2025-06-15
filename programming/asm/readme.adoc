@@ -1,0 +1,18 @@
+= Assembly Language
+
+    as hello.asm -o hello.o && ld -nostdlib -static hello.o -o hello
+
+    objdump -d hello
+    llvm-objdump-18 -d hello
+
+* https://en.wikipedia.org/wiki/X86_assembly_language
+* https://www.cs.uaf.edu/courses/cs301/index.html[UAF: CS301 Assembly Language Programming]
+* https://en.wikipedia.org/wiki/System_call
+* https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+* https://asm.sourceforge.net/resources.html#tutorials
+* https://asm.sourceforge.net/articles/linasm.html[Using Assembly Language in Linux.]
+* https://asm.sourceforge.net/intro/hello.html
+* https://en.wikipedia.org/wiki/GNU_Assembler
+* https://llvm.org/docs/CommandGuide/llvm-as.html
+* https://releases.llvm.org/1.1/docs/LangRef.html
+* https://www.youtube.com/watch?v=Lvc8qx8ukOI[Programming Language with LLVM [1/20] Introduction to LLVM IR and tools]
