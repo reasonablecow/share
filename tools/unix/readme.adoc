@@ -14,6 +14,7 @@
 .TODO
 [%collapsible]
 ====
+. https://linuxjourney.com/
 . https://en.wikipedia.org/wiki/Signal_(IPC)
 . `file -bi FILE`
 . https://unix.stackexchange.com/questions/12453/how-to-determine-linux-kernel-architecture
