@@ -146,6 +146,7 @@ cargo fmt
 * https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.intersperse
 
 ## Extra
+* https://github.com/rust-lang/rust
 * rust-script - https://rust-script.org/
 * rust announcements - https://blog.rust-lang.org/
 * https://rust-lang.github.io/async-book/
@@ -162,6 +163,9 @@ cargo fmt
 ## RFC
 ### Pre-RFC
 * <https://internals.rust-lang.org/t/pre-rfc-named-arguments/16413>
+
+## Issues
+* [Tracking Issue for "More Qualified Paths" #86935](https://github.com/rust-lang/rust/issues/86935)
 
 ## TODO
 * [Rust Developer course texts](https://github.com/Global-rd/rust/)
