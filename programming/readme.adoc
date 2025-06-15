@@ -27,6 +27,7 @@
 [%collapsible]
 ====
 . https://exercism.org/
+* https://en.wikipedia.org/wiki/Coroutine
 . https://en.wikipedia.org/wiki/Type_class
 . https://en.wikipedia.org/wiki/Tacit_programming
 . https://aplwiki.com/wiki/Train
@@ -34,6 +35,9 @@
 . https://www.uiua.org/
 . https://wiki.tcl-lang.org/
 . https://github.com/rust-lang/book/blob/fc4274d906bfcc526d2a19aba25f44bfaecd877a/first-edition/src/glossary.md#expression-oriented-language[Expression-Oriented Language]
+* https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+* https://gcc.gnu.org/onlinedocs/gccint/index.html[GNU Compilers Introduction]
+* https://mlir.llvm.org/docs/LangRef/#symbol-reference-attribute
 ====
 
 == Rankings
@@ -118,6 +122,9 @@ https://www.rust-lang.org/[Rust]::
 The most loved programming language.
 Memory safety is done by borrow checker.
 Is another language that made it to the Linux kernel source code.
+
+https://ziglang.org/documentation/master/[Zig]
+Zig is an imperative, statically typed, compiled system programming language with explicit memory allocation designed by Andrew Kelley.
 
 === https://en.wikipedia.org/wiki/List_of_command-line_interpreters[Command-line interpreters]
 
